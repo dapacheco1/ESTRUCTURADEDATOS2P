@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1612361434 source:c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.cpp
+	"ItemBase.h"
+
+1612363464 c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<Error.h>
+
+1612363180 source:c:\users\danny\desktop\github\estructuradedatos\listas\prblistaseinsel\main.cpp
+	"CLstSEInsel.h"
+
+1612363479 source:c:\users\danny\desktop\github\estructuradedatos\mensajes\error.cpp
+	<Error.H>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610418898 source:c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\clases base\itembase.cpp
+	"ItemBase.h"
+
+1610418887 c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\clases base\itembase.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<ERROR.H>
+
+1610418887 source:c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\mensajes\error.cpp
+	<ERROR.H>
+
+1610976619 source:c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\listas\clistase.cpp
+	"CListaSE.h"
+
+1610410774 c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\listas\clistase.h
+	<ItemOrden.h>
+
+1610416092 source:c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\listas\clstseinsel.cpp
+	"CLstSEInsel.h"
+
+1610416092 c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\listas\clstseinsel.h
+	<CListaSE.h>
+
+1610977187 source:c:\users\pc familia\desktop\archivos espe_4to_semestre\estructura\primer parcial\ejercicios clase 06 y 08\listas\simulaciondisparos\main.cpp
+	"CLstSEInsel.h"
+

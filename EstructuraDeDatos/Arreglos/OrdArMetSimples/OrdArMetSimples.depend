@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1612361434 source:c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.cpp
+	"ItemBase.h"
+
+1612363464 c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<Error.h>
+
+1612361584 source:c:\users\danny\desktop\github\estructuradedatos\clasesbase\itemorden.cpp
+	"ItemOrden.h"
+
+1612371785 c:\users\danny\desktop\github\estructuradedatos\clasesbase\itemorden.h
+	"ItemBase.h"
+
+1612366415 source:c:\users\danny\desktop\github\estructuradedatos\arreglos\oprarreglos.cpp
+	<OprArreglos.h>
+
+1612371636 source:c:\users\danny\desktop\github\estructuradedatos\arreglos\ordarmetsimples\main.cpp
+	<OprArreglos.h>
+

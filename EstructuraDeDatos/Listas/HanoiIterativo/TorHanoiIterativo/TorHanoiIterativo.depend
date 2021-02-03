@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1612363479 source:c:\users\danny\desktop\github\estructuradedatos\mensajes\error.cpp
+	<Error.H>
+
+1612362767 source:c:\users\danny\desktop\github\estructuradedatos\listas\clistase.cpp
+	"CListaSE.h"
+
+1612364196 c:\users\danny\desktop\github\estructuradedatos\listas\clistase.h
+	<ItemHanoi.h>
+
+1612363010 source:c:\users\danny\desktop\github\estructuradedatos\listas\clstseinsel.cpp
+	"CLstSEInsel.h"
+
+1612362927 c:\users\danny\desktop\github\estructuradedatos\listas\clstseinsel.h
+	<CListaSE.h>
+
+1612363878 source:c:\users\danny\desktop\github\estructuradedatos\listas\hanoiiterativo\chanoi.cpp
+	"CHanoi.h"
+
+1612363854 c:\users\danny\desktop\github\estructuradedatos\listas\hanoiiterativo\chanoi.h
+	<CLstSEInsel.h>
+

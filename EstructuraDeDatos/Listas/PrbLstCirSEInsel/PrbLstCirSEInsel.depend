@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1612361434 source:c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.cpp
+	"ItemBase.h"
+
+1612363464 c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<Error.h>
+
+1612363479 source:c:\users\danny\desktop\github\estructuradedatos\mensajes\error.cpp
+	<Error.H>
+
+1612362767 source:c:\users\danny\desktop\github\estructuradedatos\listas\clistase.cpp
+	"CListaSE.h"
+
+1612364303 c:\users\danny\desktop\github\estructuradedatos\listas\clistase.h
+	<ItemOrden.h>
+
+1612365047 source:c:\users\danny\desktop\github\estructuradedatos\listas\clstcirseinsel.cpp
+	"CLstCirSEInsel.h"
+
+1612364995 c:\users\danny\desktop\github\estructuradedatos\listas\clstcirseinsel.h
+	<CListaSE.h>
+
+1612365291 source:c:\users\danny\desktop\github\estructuradedatos\listas\prblstcirseinsel\main.cpp
+	"CLstCirSEInsel.h"
+

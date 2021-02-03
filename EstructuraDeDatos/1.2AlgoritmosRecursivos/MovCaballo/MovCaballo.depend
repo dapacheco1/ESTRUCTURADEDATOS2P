@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612359640 source:c:\users\danny\desktop\github\estructuradedatos\caleatorios.cpp
+	"CAleatorios.h"
+
+1612359613 c:\users\danny\desktop\github\estructuradedatos\caleatorios.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1612359746 source:c:\users\danny\desktop\github\estructuradedatos\1.2algoritmosrecursivos\movcaballo\main.cpp
+	<iostream>
+	<CAleatorios.h>
+

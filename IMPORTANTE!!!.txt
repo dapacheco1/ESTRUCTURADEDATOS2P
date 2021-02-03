@@ -1,0 +1,8 @@
+###PROBLEMA DE JOSE LISTAS CIRCULARES###
+Cambiar en CListaSE.h usar #include "ItemOrden.h"
+###BUSQUEDA ARREGLOS###
+Cambiar en ItemOrden.h #include "CEstudiante.h"
+###CALIFICACIONES1###
+Cambiar ItemOrden.h #include "CEstudiante.h"
+###PARA ORDARMETSIMPLES###
+Cambiar ItemOrden.h #include "Itembase.h"

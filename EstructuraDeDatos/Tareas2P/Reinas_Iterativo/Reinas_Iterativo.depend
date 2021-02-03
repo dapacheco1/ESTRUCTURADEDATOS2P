@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1612032595 source:c:\users\andres\documents\reinas_iterativo\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	"Tablero.h"
+
+1612056579 c:\users\andres\documents\reinas_iterativo\include\tablero.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1612038156 source:c:\users\andres\documents\reinas_iterativo\src\tablero.cpp
+	"Tablero.h"
+	<stdlib.h>
+
+1612032595 source:c:\users\danny\downloads\reinas_iterativo\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	"Tablero.h"
+
+1612056579 c:\users\danny\downloads\reinas_iterativo\include\tablero.h
+	<iostream>
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+
+1612038156 source:c:\users\danny\downloads\reinas_iterativo\src\tablero.cpp
+	"Tablero.h"
+	<stdlib.h>
+

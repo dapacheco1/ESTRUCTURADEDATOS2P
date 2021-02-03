@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1612356994 source:c:\users\danny\desktop\github\estructuradedatos\templates\cvector.cpp
+	"CVector.h"
+
+1612356980 c:\users\danny\desktop\github\estructuradedatos\templates\cvector.h
+
+1612357174 source:c:\users\danny\desktop\github\estructuradedatos\templates\prbtemplatefunc\main.cpp
+	<iostream>
+	"CVector.h"
+

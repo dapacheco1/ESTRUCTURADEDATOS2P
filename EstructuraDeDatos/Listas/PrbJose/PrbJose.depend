@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1612359640 source:c:\users\danny\desktop\github\estructuradedatos\caleatorios.cpp
+	"CAleatorios.h"
+
+1612359613 c:\users\danny\desktop\github\estructuradedatos\caleatorios.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1612361434 source:c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.cpp
+	"ItemBase.h"
+
+1612363464 c:\users\danny\desktop\github\estructuradedatos\clasesbase\itembase.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<string.h>
+	<Error.h>
+
+1612363479 source:c:\users\danny\desktop\github\estructuradedatos\mensajes\error.cpp
+	<Error.H>
+
+1612362767 source:c:\users\danny\desktop\github\estructuradedatos\listas\clistase.cpp
+	"CListaSE.h"
+
+1612364303 c:\users\danny\desktop\github\estructuradedatos\listas\clistase.h
+	<ItemOrden.h>
+
+1612365843 source:c:\users\danny\desktop\github\estructuradedatos\listas\clstcirseinsel.cpp
+	"CLstCirSEInsel.h"
+
+1612365821 c:\users\danny\desktop\github\estructuradedatos\listas\clstcirseinsel.h
+	<CListaSE.h>
+
+1612365555 source:c:\users\danny\desktop\github\estructuradedatos\listas\prbjose\main.cpp
+	"CLstCirSEInsel.h"
+	"CAleatorios.h"
+
